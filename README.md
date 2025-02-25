@@ -16,4 +16,4 @@ PurrfectMatch is a fun and engaging web application designed to be the ultimate 
 1. Clone the repository: git clone https://github.com/razan-z/PurrfectMatch.git
 2. Open index.html in your browser to view the application.
 
-Feel free to explore, contribute, and give feedback. Happy matching!
+Happy matching!
